@@ -1,0 +1,18 @@
+#+Title: ORG mode 学习指南
+
+* 序章
+- 文档写作目的 :: TODO
+- 写作过程 :: 边学边写，持续改进
+
+* TODO org 介绍
+  [[https://orgmode.org/features.html][功能列表]]
+* TODO 资源和学习路径
+** 学习资源
+   - 官方文档入口 :: [[https://orgmode.org/#docs][org docs]]
+   - 社区文档 :: [[https://orgmode.org/worg/][worg docs]]
+
+** 我的学习路径
+   - =[[][org guide]]=
+** 学习方法
+
+   沉浸式学习方法是最好的学习方法之一，一边读文档，一边动手实践。
