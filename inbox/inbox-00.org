@@ -1,0 +1,32 @@
+* Tasks
+:LOGBOOK:
+CLOCK: [2019-07-01 周一 16:35]--[2019-07-01 周一 16:36] =>  0:01
+:END:
+
+** TODO Learn an org workflow: [[http://doc.norang.ca/org-mode.html][Org Mode - Organize Your Life In Plain Text!]]
+SCHEDULED: <2019-07-01 周一> DEADLINE: <2019-07-03 周三 -2d>
+:LOGBOOK:
+CLOCK: [2019-07-01 周一 17:32]--[2019-07-01 周一 17:34] =>  0:02
+CLOCK: [2019-07-01 周一 17:20]--[2019-07-01 周一 17:25] =>  0:05
+:END:
+
+** TODO Learn [[https://orgmode.org/worg/org-glossary.html][Org Glossary]]
+DEADLINE: <2019-07-01 周一 17:00 -1h>
+
+** DONE Learn [[https://emacs.cafe/emacs/orgmode/gtd/2017/06/30/orgmode-gtd.html][Orgmode for GTD by Nicolas Petton]]
+CLOSED: [2019-07-01 周一 16:57] SCHEDULED: <2019-07-01 周一 10:30> DEADLINE: <2019-07-01 周一>
+:LOGBOOK:
+CLOCK: [2019-07-01 周一 16:57]--[2019-07-01 周一 16:58] =>  0:01
+CLOCK: [2019-07-01 周一 16:53]--[2019-07-01 周一 16:57] =>  0:04
+CLOCK: [2019-07-01 周一 16:37]--[2019-07-01 周一 16:42] =>  0:05
+CLOCK: [2019-07-01 周一 16:31]--[2019-07-01 周一 16:33] =>  0:02
+:END:
+
+** DONE Learn how to customize orgmode with spacemacs
+SCHEDULED: <2019-07-01 周一> DEADLINE: <2019-07-02 周二>
+:LOGBOOK:
+CLOCK: [2019-07-01 周一 17:34]
+CLOCK: [2019-07-01 周一 17:34]--[2019-07-01 周一 17:34] =>  0:00
+CLOCK: [2019-07-01 周一 17:34]--[2019-07-01 周一 17:34] =>  0:00
+:END:
+
