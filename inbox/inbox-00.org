@@ -6,6 +6,7 @@ CLOCK: [2019-07-01 周一 16:35]--[2019-07-01 周一 16:36] =>  0:01
 ** TODO Learn an org workflow: [[http://doc.norang.ca/org-mode.html][Org Mode - Organize Your Life In Plain Text!]]
 SCHEDULED: <2019-07-01 周一> DEADLINE: <2019-07-03 周三 -2d>
 :LOGBOOK:
+CLOCK: [2019-07-01 周一 17:55]
 CLOCK: [2019-07-01 周一 17:32]--[2019-07-01 周一 17:34] =>  0:02
 CLOCK: [2019-07-01 周一 17:20]--[2019-07-01 周一 17:25] =>  0:05
 :END:
@@ -25,8 +26,10 @@ CLOCK: [2019-07-01 周一 16:31]--[2019-07-01 周一 16:33] =>  0:02
 ** DONE Learn how to customize orgmode with spacemacs
 SCHEDULED: <2019-07-01 周一> DEADLINE: <2019-07-02 周二>
 :LOGBOOK:
-CLOCK: [2019-07-01 周一 17:34]
+CLOCK: [2019-07-01 周一 17:34]--[2019-07-01 周一 17:55] =>  0:21
 CLOCK: [2019-07-01 周一 17:34]--[2019-07-01 周一 17:34] =>  0:00
 CLOCK: [2019-07-01 周一 17:34]--[2019-07-01 周一 17:34] =>  0:00
 :END:
+
+** Learn FreeBSD sysadmin
 

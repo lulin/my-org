@@ -11,3 +11,9 @@
 ** TODO 
   [2019-07-01 周一]
   [[file:e:/Documents/my-org/inbox/inbox-00.org::*Learn%20%5B%5Bhttps://emacs.cafe/emacs/orgmode/gtd/2017/06/30/orgmode-gtd.html%5D%5BOrgmode%20for%20GTD%20by%20Nicolas%20Petton%5D%5D][Learn Orgmode for GTD by Nicolas Petton]]
+** TODO 
+  [2019-07-01 周一]
+  [[file:e:/Documents/my-org/inbox/inbox-00.org::*Learn%20%5B%5Bhttps://emacs.cafe/emacs/orgmode/gtd/2017/06/30/orgmode-gtd.html%5D%5BOrgmode%20for%20GTD%20by%20Nicolas%20Petton%5D%5D][Learn Orgmode for GTD by Nicolas Petton]]
+** TODO 
+  [2019-07-01 周一]
+  [[file:e:/Documents/my-org/inbox/inbox-00.org::*Learn%20an%20org%20workflow:%20%5B%5Bhttp://doc.norang.ca/org-mode.html%5D%5BOrg%20Mode%20-%20Organize%20Your%20Life%20In%20Plain%20Text!%5D%5D][Learn an org workflow: Org Mode - Organize Your Life In Plain Text!]]
