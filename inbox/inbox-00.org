@@ -6,14 +6,24 @@ CLOCK: [2019-07-01 周一 16:35]--[2019-07-01 周一 16:36] =>  0:01
 ** TODO Learn an org workflow: [[http://doc.norang.ca/org-mode.html][Org Mode - Organize Your Life In Plain Text!]]
 SCHEDULED: <2019-07-01 周一> DEADLINE: <2019-07-03 周三 -2d>
 :LOGBOOK:
-CLOCK: [2019-07-01 周一 17:55]
+CLOCK: [2019-07-02 周二 14:20]
+CLOCK: [2019-07-02 周二 14:17]--[2019-07-02 周二 14:19] =>  0:02
+CLOCK: [2019-07-02 周二 14:14]--[2019-07-02 周二 14:17] =>  0:03
+CLOCK: [2019-07-02 周二 14:14]--[2019-07-02 周二 14:14] =>  0:00
+CLOCK: [2019-07-02 周二 14:14]--[2019-07-02 周二 14:14] =>  0:00
+CLOCK: [2019-07-02 周二 14:00]--[2019-07-02 周二 14:13] =>  0:13
+CLOCK: [2019-07-02 周二 13:54]--[2019-07-02 周二 13:57] =>  0:03
+CLOCK: [2019-07-02 周二 11:43]--[2019-07-02 周二 12:21] =>  0:38
+CLOCK: [2019-07-01 周一 17:55]--[2019-07-01 周一 18:00] =>  0:05
 CLOCK: [2019-07-01 周一 17:32]--[2019-07-01 周一 17:34] =>  0:02
 CLOCK: [2019-07-01 周一 17:20]--[2019-07-01 周一 17:25] =>  0:05
 :END:
 
-** TODO Learn [[https://orgmode.org/worg/org-glossary.html][Org Glossary]]
+** NEXT Learn [[https://orgmode.org/worg/org-glossary.html][Org Glossary]]
 DEADLINE: <2019-07-01 周一 17:00 -1h>
 
+- State "NEXT"       from "WAITING"    [2019-07-02 周二 14:03]
+- State "WAITING"    from "NEXT"       [2019-07-02 周二 14:02]
 ** DONE Learn [[https://emacs.cafe/emacs/orgmode/gtd/2017/06/30/orgmode-gtd.html][Orgmode for GTD by Nicolas Petton]]
 CLOSED: [2019-07-01 周一 16:57] SCHEDULED: <2019-07-01 周一 10:30> DEADLINE: <2019-07-01 周一>
 :LOGBOOK:
@@ -31,5 +41,21 @@ CLOCK: [2019-07-01 周一 17:34]--[2019-07-01 周一 17:34] =>  0:00
 CLOCK: [2019-07-01 周一 17:34]--[2019-07-01 周一 17:34] =>  0:00
 :END:
 
-** Learn FreeBSD sysadmin
+** TODO Learn FreeBSD sysadmin
+
+- State "DONE"       from "WAITING"    [2019-07-02 周二 14:27]
+** PHONE phone
+CLOSED: [2019-07-02 周二 14:08]
+
+** PHONE another call
+CLOSED: [2019-07-02 周二 14:13]
+:LOGBOOK:
+CLOCK: [2019-07-02 周二 14:13]--[2019-07-02 周二 14:13] =>  0:00
+:END:
+
+** MEETING virtual meeting
+CLOSED: [2019-07-02 周二 14:16]
+
+** DONE done
+CLOSED: [2019-07-02 周二 14:35]
 

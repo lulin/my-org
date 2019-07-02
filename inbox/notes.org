@@ -17,3 +17,15 @@
 ** TODO 
   [2019-07-01 周一]
   [[file:e:/Documents/my-org/inbox/inbox-00.org::*Learn%20an%20org%20workflow:%20%5B%5Bhttp://doc.norang.ca/org-mode.html%5D%5BOrg%20Mode%20-%20Organize%20Your%20Life%20In%20Plain%20Text!%5D%5D][Learn an org workflow: Org Mode - Organize Your Life In Plain Text!]]
+** TODO 
+  [2019-07-02 周二]
+  [[file:e:/Documents/my-org/inbox/inbox-00.org::*phone][phone]]
+** TODO 
+  [2019-07-02 周二]
+  [[file:e:/Documents/my-org/inbox/inbox-00.org::*another%20call][another call]]
+** TODO 
+  [2019-07-02 周二]
+  [[file:e:/Documents/my-org/inbox/inbox-00.org::*virtual%20meeting][virtual meeting]]
+** TODO 
+  [2019-07-02 周二]
+  [[file:e:/Documents/my-org/inbox/inbox-00.org::*Learn%20an%20org%20workflow:%20%5B%5Bhttp://doc.norang.ca/org-mode.html%5D%5BOrg%20Mode%20-%20Organize%20Your%20Life%20In%20Plain%20Text!%5D%5D][Learn an org workflow: Org Mode - Organize Your Life In Plain Text!]]
