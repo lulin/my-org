@@ -1,0 +1,64 @@
+* Study
+
+** [#A] c++ templates
+
+** English [0/2]
+- [ ] writing
+- [ ] reading
+
+** [#B] FreeBSD
+
+** Build a extended NAS based on FreeBSD
+
+*** nginx
+*** dynamic content web server, powered by c++
+*** swift backend
+*** c++ as host, racket as script
+*** engineer frontend
+
+** Haskell
+
+** Scala
+
+** Racket
+
+** Category theory
+- [ ] Read /Category Theory for Programmers/
+
+** Frontend technologies
+
+** Backend technologies
+*** Play framework, scala
+*** Spark
+
+** Desktop technologies
+*** Qt
+*** Swift - cocoa
+*** WPF [0%]
+- [ ] WPF
+- [ ] C#
+
+** Microservices
+- [ ] /Microservice Patterns/
+
+** Containers
+- docker
+- kubernetes
+- FreeBSD docker tech
+
+** [#B] Network
+
+** Org mode and Emacs
+
+** [#A] Algorithms
+
+** [#B] Develop writing habit
+
+** Mathematics
+*** Calculus
+*** Linear algebra
+*** Probability and Statistics
+
+** CV
+
+** Graphics
