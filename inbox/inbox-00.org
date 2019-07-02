@@ -1,7 +1,10 @@
 * Tasks
-:LOGBOOK:
-CLOCK: [2019-07-01 周一 16:35]--[2019-07-01 周一 16:36] =>  0:01
-:END:
+  :PROPERTIES:
+  :CATEGORY: task
+  :END:
+  :LOGBOOK:
+  CLOCK: [2019-07-01 周一 16:35]--[2019-07-01 周一 16:36] =>  0:01
+  :END:
 
 ** TODO Learn an org workflow: [[http://doc.norang.ca/org-mode.html][Org Mode - Organize Your Life In Plain Text!]]
 SCHEDULED: <2019-07-01 周一> DEADLINE: <2019-07-03 周三 -2d>
