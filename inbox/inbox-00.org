@@ -6,8 +6,9 @@
   CLOCK: [2019-07-01 周一 16:35]--[2019-07-01 周一 16:36] =>  0:01
   :END:
 
-** TODO Learn an org workflow: [[http://doc.norang.ca/org-mode.html][Org Mode - Organize Your Life In Plain Text!]]
+** HOLD Learn an org workflow: [[http://doc.norang.ca/org-mode.html][Org Mode - Organize Your Life In Plain Text!]] :HOLD:
 SCHEDULED: <2019-07-01 周一> DEADLINE: <2019-07-03 周三 -2d>
+- State "HOLD"       from "TODO"       [2019-07-02 周二 16:33]
 :LOGBOOK:
 CLOCK: [2019-07-02 周二 14:20]
 CLOCK: [2019-07-02 周二 14:17]--[2019-07-02 周二 14:19] =>  0:02
@@ -22,8 +23,11 @@ CLOCK: [2019-07-01 周一 17:32]--[2019-07-01 周一 17:34] =>  0:02
 CLOCK: [2019-07-01 周一 17:20]--[2019-07-01 周一 17:25] =>  0:05
 :END:
 
-** NEXT Learn [[https://orgmode.org/worg/org-glossary.html][Org Glossary]]
-DEADLINE: <2019-07-01 周一 17:00 -1h>
+** DONE Learn [[https://orgmode.org/worg/org-glossary.html][Org Glossary]]
+CLOSED: [2019-07-02 周二 16:37] SCHEDULED: <2019-07-02 周二> DEADLINE: <2019-07-01 周一 17:00 -1h>
+:LOGBOOK:
+CLOCK: [2019-07-02 周二 16:33]--[2019-07-02 周二 16:37] =>  0:04
+:END:
 
 - State "NEXT"       from "WAITING"    [2019-07-02 周二 14:03]
 - State "WAITING"    from "NEXT"       [2019-07-02 周二 14:02]
