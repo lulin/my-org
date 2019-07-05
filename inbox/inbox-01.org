@@ -1,0 +1,14 @@
+* Tasks
+:PROPERTIES:
+:CATEGORY:
+:END:
+
+** TODO 了解微信公众平台
+SCHEDULED: <2019-07-03 周三>
+:LOGBOOK:
+CLOCK: [2019-07-03 周三 10:09]--[2019-07-03 周三 11:07] =>  0:58
+CLOCK: [2019-07-03 周三 10:04]--[2019-07-03 周三 10:06] =>  0:02
+:END:
+
+- 资源 :: [[https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432][微信公众平台技术文档]]
+- 笔记 :: [[][我的整理]
