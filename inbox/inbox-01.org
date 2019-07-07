@@ -3,8 +3,9 @@
 :CATEGORY:
 :END:
 
-** TODO 了解微信公众平台
+** HOLD 了解微信公众平台                                              :HOLD:
 SCHEDULED: <2019-07-03 周三>
+- State "HOLD"       from "TODO"       [2019-07-05 Fri 20:09]
 :LOGBOOK:
 CLOCK: [2019-07-03 周三 10:09]--[2019-07-03 周三 11:07] =>  0:58
 CLOCK: [2019-07-03 周三 10:04]--[2019-07-03 周三 10:06] =>  0:02
@@ -12,3 +13,18 @@ CLOCK: [2019-07-03 周三 10:04]--[2019-07-03 周三 10:06] =>  0:02
 
 - 资源 :: [[https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432][微信公众平台技术文档]]
 - 笔记 :: [[][我的整理]
+        
+** TODO Learn FreeBSD basic setup [33%]
+SCHEDULED: <2019-07-05 Fri>
+:LOGBOOK:
+CLOCK: [2019-07-06 Sat 15:59]--[2019-07-06 Sat 16:01] =>  0:02
+CLOCK: [2019-07-06 Sat 15:54]--[2019-07-06 Sat 15:55] =>  0:01
+CLOCK: [2019-07-06 Sat 12:00]--[2019-07-06 Sat 12:01] =>  0:01
+CLOCK: [2019-07-06 Sat 11:51]--[2019-07-06 Sat 12:00] =>  0:09
+CLOCK: [2019-07-05 Fri 20:38]--[2019-07-06 Sat 00:59] =>  4:21
+:END:
+
+- [X] Read [[https://www.freebsd.org/doc/en_US.ISO8859-1/articles/linux-users/index.html][FreeBSD Quickstart Guide for Linux® Users]]
+- [ ] Read [[https://www.freebsd.org/doc/handbook/index.html][FreeBSD Handbook]]
+- [ ] [[file:~/Books/Operating_System/Absolute%20FreeBSD%20The%20Complete%20Guide%20to%20FreeBSD,%203rd%20Edition.epub][Absolute FreeBSD]]
+

@@ -1,3 +1,4 @@
+(setq org-startup-indented t)
 (setq org-indent-mode t)
 (setq org-directory "~/Documents/my-org")
 (setq org-default-notes-file "~/Documents/my-org/refile.org")

@@ -1,0 +1,5 @@
+* Note 001
+
+** 文件头部控制 Emacs 编辑行为的方法是什么
+
+这个叫 File variables

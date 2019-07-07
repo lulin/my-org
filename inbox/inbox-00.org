@@ -6,8 +6,9 @@
   CLOCK: [2019-07-01 周一 16:35]--[2019-07-01 周一 16:36] =>  0:01
   :END:
 
-** HOLD Learn an org workflow: [[http://doc.norang.ca/org-mode.html][Org Mode - Organize Your Life In Plain Text!]] :HOLD:
-SCHEDULED: <2019-07-01 周一> DEADLINE: <2019-07-03 周三 -2d>
+** DONE Learn an org workflow: [[http://doc.norang.ca/org-mode.html][Org Mode - Organize Your Life In Plain Text!]]
+CLOSED: [2019-07-06 Sat 11:54] SCHEDULED: <2019-07-01 周一> DEADLINE: <2019-07-03 周三 -2d>
+- State "DONE"       from "HOLD"       [2019-07-06 Sat 11:54]
 - State "HOLD"       from "TODO"       [2019-07-02 周二 16:33]
 :LOGBOOK:
 CLOCK: [2019-07-02 周二 14:20]--[2019-07-02 周二 14:50] =>  0:30
@@ -48,9 +49,6 @@ CLOCK: [2019-07-01 周一 17:34]--[2019-07-01 周一 17:34] =>  0:00
 CLOCK: [2019-07-01 周一 17:34]--[2019-07-01 周一 17:34] =>  0:00
 :END:
 
-** TODO Learn FreeBSD sysadmin
-
-- State "DONE"       from "WAITING"    [2019-07-02 周二 14:27]
 ** PHONE phone
 CLOSED: [2019-07-02 周二 14:08]
 
