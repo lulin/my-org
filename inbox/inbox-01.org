@@ -3,8 +3,9 @@
 :CATEGORY:
 :END:
 
-** HOLD 了解微信公众平台                                              :HOLD:
-SCHEDULED: <2019-07-03 周三>
+** CANCELED 了解微信公众平台
+CLOSED: [2019-07-09 周二 09:13] SCHEDULED: <2019-07-03 周三>
+- State "CANCELED"   from "HOLD"       [2019-07-09 周二 09:13]
 - State "HOLD"       from "TODO"       [2019-07-05 Fri 20:09]
 :LOGBOOK:
 CLOCK: [2019-07-03 周三 10:09]--[2019-07-03 周三 11:07] =>  0:58
@@ -28,3 +29,17 @@ CLOCK: [2019-07-05 Fri 20:38]--[2019-07-06 Sat 00:59] =>  4:21
 - [ ] Read [[https://www.freebsd.org/doc/handbook/index.html][FreeBSD Handbook]]
 - [ ] [[file:~/Books/Operating_System/Absolute%20FreeBSD%20The%20Complete%20Guide%20to%20FreeBSD,%203rd%20Edition.epub][Absolute FreeBSD]]
 
+** TODO Learn Haskell [0%]
+DEADLINE: <2019-09-09 周一> SCHEDULED: <2019-07-08 周一>
+:LOGBOOK:
+CLOCK: [2019-07-09 周二 15:12]--[2019-07-09 周二 15:40] =>  0:28
+CLOCK: [2019-07-09 周二 09:08]--[2019-07-09 周二 09:18] =>  0:10
+CLOCK: [2019-07-08 周一 09:10]--[2019-07-08 周一 09:47] =>  0:37
+:END:
+
+*** Initial steps [0%]
+
+- [ ] Install Haskell on Windows
+- [ ] Install Haskell on MacOS
+- [ ] Read /Haskell Programming from First Principles/ - /Chap.1 All You Need is Lambda/
+- [ ] Read [[https://en.wikibooks.org/wiki/Haskell][WikiBook]]
