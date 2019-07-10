@@ -1,4 +1,4 @@
-* Study
+* Tasks
 
 ** [#A] c++ templates
 
@@ -11,6 +11,7 @@
 ** Build a extended NAS based on FreeBSD
 
 *** nginx
+*** h2o
 *** dynamic content web server, powered by c++
 *** swift backend
 *** c++ as host, racket as script
@@ -48,7 +49,8 @@
 
 ** [#B] Network
 
-** Org mode and Emacs
+** TODO Org mode and Emacs
+SCHEDULED: <2019-07-11 周四>
 
 ** [#A] Algorithms
 

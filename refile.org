@@ -8,3 +8,15 @@ CLOCK: [2019-07-02 周二 14:40]--[2019-07-02 周二 14:40] =>  0:00
 CLOCK: [2019-07-02 周二 14:45]--[2019-07-02 周二 14:45] =>  0:00
 :END:
 [2019-07-02 周二 14:45]
+* TODO 
+:LOGBOOK:
+CLOCK: [2019-07-10 周三 10:50]--[2019-07-10 周三 10:50] =>  0:00
+:END:
+[2019-07-10 周三 10:50]
+[[file:e:/Documents/my-org/projects/nas/nas.01.org::*Web%20application][Web application]]
+* TODO 
+:LOGBOOK:
+CLOCK: [2019-07-10 周三 11:43]--[2019-07-10 周三 11:43] =>  0:00
+:END:
+[2019-07-10 周三 11:43]
+[[file:e:/Documents/my-org/inbox/someday-00.org::*Org%20mode%20and%20Emacs][Org mode and Emacs]]

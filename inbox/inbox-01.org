@@ -37,10 +37,35 @@ CLOCK: [2019-07-09 周二 09:08]--[2019-07-09 周二 09:18] =>  0:10
 CLOCK: [2019-07-08 周一 09:10]--[2019-07-08 周一 09:47] =>  0:37
 :END:
 
-*** Initial steps [40%]
+*** Initial steps [75%]
 
 - [X] Install Haskell on Windows
 - [X] Install Haskell on MacOS
 - [ ] Install Haskell on FreeBSD
-- [ ] Read /Haskell Programming from First Principles/ - /Chap.1 All You Need is Lambda/
-- [ ] Read [[https://en.wikibooks.org/wiki/Haskell][WikiBook]]
+- [X] Read /Haskell Programming from First Principles/ - /Chap.1 All You Need is Lambda/
+
+** Read Haskell [[https://en.wikibooks.org/wiki/Haskell][WikiBook]]
+
+** TODO Study /Haskell Programming from First Principles/ [16%]
+SCHEDULED: <2019-07-10 周三>
+- [X] [[*Chap.1 All you need is Lambda][Chap.1 All you need is Lambda]]
+- [ ] [[*Chap.2 Hello, Haskell][Chap.2 Hello, Haskell]]
+- [ ] [[*Chap.3 Strings][Chap.3 Strings]]
+- [ ] [[*Chap.4 Basic datatypes][Chap.4 Basic datatypes]]
+- [ ] [[*Chap.5 Types][Chap.5 Types]]
+- [ ] [[*Chap.6 Typeclasses][Chap.6 Typeclasses]]
+
+*** DONE Chap.1 All you need is Lambda
+CLOSED: [2019-07-10 周三 11:31]
+*** TODO Chap.2 Hello, Haskell
+SCHEDULED: <2019-07-10 周三>
+:LOGBOOK:
+CLOCK: [2019-07-10 周三 14:25]--[2019-07-10 周三 15:00] =>  0:35
+CLOCK: [2019-07-10 周三 11:43]--[2019-07-10 周三 11:43] =>  0:00
+CLOCK: [2019-07-10 周三 11:38]--[2019-07-10 周三 11:43] =>  0:05
+:END:
+*** TODO Chap.3 Strings
+*** TODO Chap.4 Basic datatypes
+DEADLINE: <2019-07-11 周四>
+*** Chap.5 Types
+*** Chap.6 Typeclasses

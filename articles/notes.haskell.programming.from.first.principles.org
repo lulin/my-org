@@ -1,0 +1,10 @@
+* Notes
+
+** Parenthesizing
+
+#+BEGIN_QUOTE
+There are times when you want to refer to an infix function
+without applying any arguments, and there are also times
+when you want to use them as prefix operators instead of infix.
+In both cases you must wrap the operator in parentheses.
+#+END_QUOTE
