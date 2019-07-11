@@ -46,10 +46,10 @@ CLOCK: [2019-07-08 周一 09:10]--[2019-07-08 周一 09:47] =>  0:37
 
 ** Read Haskell [[https://en.wikibooks.org/wiki/Haskell][WikiBook]]
 
-** TODO Study /Haskell Programming from First Principles/ [16%]
+** TODO Study /Haskell Programming from First Principles/ [33%]
 SCHEDULED: <2019-07-10 周三>
 - [X] [[*Chap.1 All you need is Lambda][Chap.1 All you need is Lambda]]
-- [ ] [[*Chap.2 Hello, Haskell][Chap.2 Hello, Haskell]]
+- [X] [[*Chap.2 Hello, Haskell][Chap.2 Hello, Haskell]]
 - [ ] [[*Chap.3 Strings][Chap.3 Strings]]
 - [ ] [[*Chap.4 Basic datatypes][Chap.4 Basic datatypes]]
 - [ ] [[*Chap.5 Types][Chap.5 Types]]
@@ -57,7 +57,10 @@ SCHEDULED: <2019-07-10 周三>
 
 *** DONE Chap.1 All you need is Lambda
 CLOSED: [2019-07-10 周三 11:31]
-*** TODO Chap.2 Hello, Haskell
+*** TODO Chap.2There are times when you want to refer to an infix function
+without applying any arguments, and there are also times
+when you want to use them as prefix operators instead of infix.
+In both cases you must wrap the operator in parentheses. Hello, Haskell
 SCHEDULED: <2019-07-10 周三>
 :LOGBOOK:
 CLOCK: [2019-07-10 周三 15:18]--[2019-07-10 周三 16:22] =>  1:04
