@@ -8,3 +8,16 @@ without applying any arguments, and there are also times
 when you want to use them as prefix operators instead of infix.
 In both cases you must wrap the operator in parentheses.
 #+END_QUOTE
+
+
+** Partial functions
+
+Notice the difference between *partial application of functions* with the concept *partial function*
+
+#+begin_quote
+We’ve mentioned partial application of functions previously,
+but the term partial function refers to something different. A
+partial function is one that doesn’t handle all the possible cases,
+so there are possible scenarios in which we haven’t defined
+any way for the code to evaluate.
+#+end_quote

@@ -29,7 +29,7 @@ CLOCK: [2019-07-05 Fri 20:38]--[2019-07-06 Sat 00:59] =>  4:21
 - [ ] Read [[https://www.freebsd.org/doc/handbook/index.html][FreeBSD Handbook]]
 - [ ] [[file:~/Books/Operating_System/Absolute%20FreeBSD%20The%20Complete%20Guide%20to%20FreeBSD,%203rd%20Edition.epub][Absolute FreeBSD]]
 
-** TODO Learn Haskell [0%]
+** TODO Learn Haskell
 DEADLINE: <2019-09-09 周一> SCHEDULED: <2019-07-08 周一>
 :LOGBOOK:
 CLOCK: [2019-07-09 周二 15:12]--[2019-07-09 周二 15:40] =>  0:28
@@ -37,21 +37,21 @@ CLOCK: [2019-07-09 周二 09:08]--[2019-07-09 周二 09:18] =>  0:10
 CLOCK: [2019-07-08 周一 09:10]--[2019-07-08 周一 09:47] =>  0:37
 :END:
 
-*** Initial steps [75%]
+*** Initial steps [100%]
 
 - [X] Install Haskell on Windows
 - [X] Install Haskell on MacOS
-- [ ] Install Haskell on FreeBSD
+- [X] Install Haskell on FreeBSD
 - [X] Read /Haskell Programming from First Principles/ - /Chap.1 All You Need is Lambda/
 
 ** Read Haskell [[https://en.wikibooks.org/wiki/Haskell][WikiBook]]
 
-** TODO Study /Haskell Programming from First Principles/ [33%]
+** TODO Study /Haskell Programming from First Principles/ [66%]
 SCHEDULED: <2019-07-10 周三>
 - [X] [[*Chap.1 All you need is Lambda][Chap.1 All you need is Lambda]]
 - [X] [[*Chap.2 Hello, Haskell][Chap.2 Hello, Haskell]]
-- [ ] [[*Chap.3 Strings][Chap.3 Strings]]
-- [ ] [[*Chap.4 Basic datatypes][Chap.4 Basic datatypes]]
+- [X] [[*Chap.3 Strings][Chap.3 Strings]]
+- [X] [[*Chap.4 Basic datatypes][Chap.4 Basic datatypes]]
 - [ ] [[*Chap.5 Types][Chap.5 Types]]
 - [ ] [[*Chap.6 Typeclasses][Chap.6 Typeclasses]]
 
